@@ -37,7 +37,9 @@ export const AboutUs = () => {
       className="relative min-h-screen w-screen overflow-hidden bg-black px-5 py-32 text-blue-50"
     >
       <div className="container mx-auto">
-        <AnimatedTitle title="About Us" className="mb-16 text-center" />
+        <AnimatedTitle className="mb-16 text-center">
+          About Us
+        </AnimatedTitle>
         
         <div className="about-content grid gap-16 md:grid-cols-2">
           <div className="space-y-8">

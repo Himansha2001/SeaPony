@@ -130,7 +130,9 @@ export const AboutUsPage = () => {
               </Button>
             </Link>
 
-            <AnimatedTitle title="About Us" className="mb-16 text-center" />
+            <AnimatedTitle className="mb-16 text-center">
+                About Us
+            </AnimatedTitle>
             
             <div className="about-content grid gap-16 md:grid-cols-2">
               <div className="space-y-8">
