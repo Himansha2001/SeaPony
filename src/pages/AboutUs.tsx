@@ -130,7 +130,7 @@ export const AboutUsPage = () => {
               </Button>
             </Link>
 
-            <AnimatedTitle className="mb-16 text-center">
+            <AnimatedTitle containerClass="mb-16 text-center">
                 About Us
             </AnimatedTitle>
             
